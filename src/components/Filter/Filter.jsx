@@ -1,4 +1,5 @@
 import s from './Filter.module.css';
+
 export const Filter = ({ handleChangeFilter }) => {
   return (
     <div className={s.wrapper}>
